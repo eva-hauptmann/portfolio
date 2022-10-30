@@ -1,1 +1,29 @@
 
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #93A29B; 
+  font-family: Helvetica
+}
+h1, h2, h3 {
+  color: #60594D
+}
+
+hr {
+  border-width: 2px;
+  border-color: #DCBF85
+}
+a{
+  color:
+}
+a:hover{
+}
+
+header {
+  text-align: center;
+  color:#60594D
+  
+}
+
+
+}
