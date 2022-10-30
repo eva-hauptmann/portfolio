@@ -8,6 +8,7 @@ html, body {
 h1, h2 {
   color: #593636
 }
+
 p {  
   color: #6e4545
   
@@ -48,10 +49,3 @@ p {
   color: #60594d
 }
 
-footer {
-  text-align: center;
-  background-color: #56352f;
-  background-position: center;
-  background-size: cover;
-  font-size: 20px
-}
