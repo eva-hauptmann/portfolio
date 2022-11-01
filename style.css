@@ -31,10 +31,10 @@ p{
   padding: 5px;
 }
 /* assigns link styles for included links */
-a:link {color: #436b50;}
-a:visited {color:#7c5f78;}
-a:hover {color: #94A187;}
-a:active {color:#60413e;}
+a:link {color: #0b5121;}
+a:visited {color:#db75ce;}
+a:hover {color: #a66ddf;}
+a:active {color:#b5c082;}
 
 /* assigns borders to elements h1,h2,h3*/ 
 h1,h2,h3 {
@@ -49,5 +49,3 @@ h1,h2,h3 {
 
 
 }
-
-
