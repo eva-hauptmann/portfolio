@@ -16,7 +16,7 @@ header {
   font-size: 20px;
   border-style: solid;
   border-width: 1px;
-  border-color: black;
+ 
 }
 ul, ol, li {
  /* brings bullets & numbers to centered text */  
@@ -46,7 +46,7 @@ h1,h2,h3 {
   padding: 20px;
   margin: 20px;
   border-radius: 10px;
-  border-color: white;
+
 
 }
 
