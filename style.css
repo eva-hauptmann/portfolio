@@ -1,9 +1,22 @@
+html, body { 
+  /* sets for color,font,and alignment of whole html*/ 
+  background-color: #dedede;
+  height: 100%;
+  width: 100%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 18px;
+  color: #29524A;
+}
 header {
   /* creates header*/
-  background-color: #00000;
+  text-align: center;
+  background-color: #414e4b;
   padding: 10px;
   font-size: 20px;
-  text-align: center
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
 }
 ul, ol, li {
  /* brings bullets & numbers to centered text */  
@@ -33,6 +46,7 @@ h1,h2,h3 {
   padding: 20px;
   margin: 20px;
   border-radius: 10px;
+  border-color: white;
 
 }
 
