@@ -6,7 +6,7 @@ html, body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
   font-size: 18px;
-  color: #29524A;
+  color: #811313;
 }
 header {
   /* creates header*/
@@ -31,7 +31,7 @@ p{
   padding: 5px;
 }
 /* assigns link styles for included links */
-a:link {color: #0b5121;}
+a:link {color: #195d2e;}
 a:visited {color:#db75ce;}
 a:hover {color: #a66ddf;}
 a:active {color:#b5c082;}
@@ -40,7 +40,7 @@ a:active {color:#b5c082;}
 h1,h2,h3 {
   
   background-color: #94A187;
-  color: #C5AFA0;
+  color: #811313;
   text-align: center;
   font-size: 40px;
   padding: 20px;
